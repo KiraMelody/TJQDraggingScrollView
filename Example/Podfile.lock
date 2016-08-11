@@ -1,0 +1,16 @@
+PODS:
+  - TJQDraggingScrollView (0.1.0)
+
+DEPENDENCIES:
+  - TJQDraggingScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  TJQDraggingScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TJQDraggingScrollView: 53b4b08324248164cdb3916ab3bd3bf3f76e21dc
+
+PODFILE CHECKSUM: b880e4269aa26fd186e717f7b52c05814cb86509
+
+COCOAPODS: 1.0.1

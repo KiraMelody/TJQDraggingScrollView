@@ -1,0 +1,6 @@
+framework module TJQDraggingScrollView {
+  umbrella header "TJQDraggingScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
