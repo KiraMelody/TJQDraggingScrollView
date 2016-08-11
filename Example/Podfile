@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TJQDraggingScrollView_Example' do
+  pod 'TJQDraggingScrollView', :path => '../'
+
+  target 'TJQDraggingScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
