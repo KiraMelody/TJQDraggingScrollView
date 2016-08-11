@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TJQDraggingScrollView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TJQDraggingScrollView.'
+  s.summary          = 'A sublass of scrollview that become bigger when dragging'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+I don't know what I can say but it need a lot of description oh I think that's enough
                        DESC
 
   s.homepage         = 'https://github.com/KiraMelody/TJQDraggingScrollView'
