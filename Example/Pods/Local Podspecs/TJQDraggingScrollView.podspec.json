@@ -1,9 +1,9 @@
 {
   "name": "TJQDraggingScrollView",
   "version": "0.1.0",
-  "summary": "A short description of TJQDraggingScrollView.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/TJQDraggingScrollView",
+  "summary": "A sublass of scrollview that become bigger when dragging",
+  "description": "I don't know what I can say but it need a lot of description oh I think that's enough",
+  "homepage": "https://github.com/KiraMelody/TJQDraggingScrollView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "KiraMelody": "jessie_tjq@163.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/TJQDraggingScrollView.git",
+    "git": "https://github.com/KiraMelody/TJQDraggingScrollView.git",
     "tag": "0.1.0"
   },
   "platforms": {

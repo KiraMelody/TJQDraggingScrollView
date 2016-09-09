@@ -7,16 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18A138E31D5CB604003C578C /* TJQDraggingScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A138E21D5CB604003C578C /* TJQDraggingScrollView.swift */; };
+		1882B4A51D63197C00E04432 /* a.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1882B4A41D63197C00E04432 /* a.swift */; };
 		23ED700E7E021FA46655F3871791B56F /* Pods-TJQDraggingScrollView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4238F9A1EB6D0D70979E8EB22DD479A6 /* Pods-TJQDraggingScrollView_Example-dummy.m */; };
 		3F874CB50E7CB3F809A932B2B917E8FE /* Pods-TJQDraggingScrollView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1344C19C1DFE1289C867023DFF62BEAD /* Pods-TJQDraggingScrollView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		50EAA838BB6007E1B82C6D6449B41097 /* Pods-TJQDraggingScrollView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D36A6BF4C46CC3485EEAAC1382419CE /* Pods-TJQDraggingScrollView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5AC4999606420F29058350019E0C3E77 /* TJQDraggingScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653F9C17332C6787412EBEA7F6492F2D /* TJQDraggingScrollView.swift */; };
 		6846BCF21E274B210EA72A4222026F89 /* Pods-TJQDraggingScrollView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 840347B2A48AC37C240B45EE9B1678DA /* Pods-TJQDraggingScrollView_Tests-dummy.m */; };
-		76CBB15B9A5657C37BA2ED015BAC900D /* TJQDraggingScrollView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D7A4F23A571CD4D51F2C5FAE8C7D111F /* TJQDraggingScrollView-dummy.m */; };
 		801C0598D3F80F3E00BDEEA94F21087C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		B08C5726859ABF5086CC84668B59D299 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		E9751B72AF6856AA67AEFE8F1FFFE26D /* TJQDraggingScrollView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 75CB714C90D427D3AA76DDDB909DF997 /* TJQDraggingScrollView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F706F557A357C2CF9CF3728151BD34CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		F86D013E9F3D166E44D98B2CCBD2B3D7 /* TJQDraggingScrollView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D7A4F23A571CD4D51F2C5FAE8C7D111F /* TJQDraggingScrollView-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,7 +34,7 @@
 		0401923331E0FBF6B5769E5EE4587B86 /* Pods-TJQDraggingScrollView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TJQDraggingScrollView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		112A681872789396E497A4F31CE63B76 /* TJQDraggingScrollView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TJQDraggingScrollView.xcconfig; sourceTree = "<group>"; };
 		1344C19C1DFE1289C867023DFF62BEAD /* Pods-TJQDraggingScrollView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TJQDraggingScrollView_Example-umbrella.h"; sourceTree = "<group>"; };
-		18A138E21D5CB604003C578C /* TJQDraggingScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TJQDraggingScrollView.swift; sourceTree = "<group>"; };
+		1882B4A41D63197C00E04432 /* a.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = a.swift; sourceTree = "<group>"; };
 		2818F2A50C3D8916615E552A2ED30813 /* TJQDraggingScrollView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TJQDraggingScrollView-prefix.pch"; sourceTree = "<group>"; };
 		2D36A6BF4C46CC3485EEAAC1382419CE /* Pods-TJQDraggingScrollView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TJQDraggingScrollView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		318AD4173D6D3B9F73BD72C7CBD2628A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		4238F9A1EB6D0D70979E8EB22DD479A6 /* Pods-TJQDraggingScrollView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TJQDraggingScrollView_Example-dummy.m"; sourceTree = "<group>"; };
 		44BE02BA263FFC9CD7D79B74533255D5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A6C9FEF5CD94F0A5B16C0425FF52B3F /* Pods-TJQDraggingScrollView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TJQDraggingScrollView_Example.release.xcconfig"; sourceTree = "<group>"; };
+		653F9C17332C6787412EBEA7F6492F2D /* TJQDraggingScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TJQDraggingScrollView.swift; sourceTree = "<group>"; };
 		6F7F2606187BC319FC15DE098429EAEA /* Pods-TJQDraggingScrollView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TJQDraggingScrollView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		6FAC9CD217822FF46B0A8B30EE5C8C46 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		75CB714C90D427D3AA76DDDB909DF997 /* TJQDraggingScrollView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TJQDraggingScrollView-umbrella.h"; sourceTree = "<group>"; };
@@ -92,14 +94,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		13B4514F91FE1864D3863D6F10FAB35D /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				18A138E21D5CB604003C578C /* TJQDraggingScrollView.swift */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
 		3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -111,7 +105,7 @@
 		64F731D6B0A665D4F5775B8E0D9D9DA2 /* TJQDraggingScrollView */ = {
 			isa = PBXGroup;
 			children = (
-				13B4514F91FE1864D3863D6F10FAB35D /* Classes */,
+				764370594A542B085828E9A9F2F42385 /* Classes */,
 			);
 			path = TJQDraggingScrollView;
 			sourceTree = "<group>";
@@ -122,6 +116,15 @@
 				D478FBA8821F04E0432DDA1F92C50930 /* TJQDraggingScrollView */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		764370594A542B085828E9A9F2F42385 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				653F9C17332C6787412EBEA7F6492F2D /* TJQDraggingScrollView.swift */,
+				1882B4A41D63197C00E04432 /* a.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		77263770C83EDE8BF4A6A99A789B6C21 /* Support Files */ = {
@@ -291,7 +294,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 503B28EC1EE39C2E4AA7A5784E50FC61 /* Build configuration list for PBXNativeTarget "TJQDraggingScrollView" */;
 			buildPhases = (
-				175CA751EDC8153034F574B379DC1FD0 /* Sources */,
+				2CEC18F62FF7D2B0360250548DB200A3 /* Sources */,
 				A14D73A3E3688402F1C2CA3DA5B476A8 /* Frameworks */,
 				279DFA8AB4D703D586B41DD87825BBA7 /* Headers */,
 			);
@@ -337,16 +340,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18A138E31D5CB604003C578C /* TJQDraggingScrollView.swift in Sources */,
 				23ED700E7E021FA46655F3871791B56F /* Pods-TJQDraggingScrollView_Example-dummy.m in Sources */,
+				1882B4A51D63197C00E04432 /* a.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		175CA751EDC8153034F574B379DC1FD0 /* Sources */ = {
+		2CEC18F62FF7D2B0360250548DB200A3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76CBB15B9A5657C37BA2ED015BAC900D /* TJQDraggingScrollView-dummy.m in Sources */,
+				F86D013E9F3D166E44D98B2CCBD2B3D7 /* TJQDraggingScrollView-dummy.m in Sources */,
+				5AC4999606420F29058350019E0C3E77 /* TJQDraggingScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
